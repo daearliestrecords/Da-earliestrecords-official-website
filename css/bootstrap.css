@@ -520,7 +520,7 @@ mark,
   border: 1px solid #ddd;
   border-radius: 0.25rem;
   transition: all 0.2s ease-in-out;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 
@@ -1021,7 +1021,8 @@ pre code {
   }
   .col-lg-8 {
     flex: 0 0 66.66667%;
-    max-width: 66.66667%;
+    max-width: 40%;
+    /* max-width: 66.66667%; */
   }
   .col-lg-9 {
     flex: 0 0 75%;
